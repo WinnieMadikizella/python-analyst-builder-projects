@@ -22,3 +22,8 @@ This Python script uses BeautifulSoup to extract real-time Bitcoin price data fr
 - Excel & Report Automation  
 - Data Visualization with Python
 - Database Interaction (SQL)  
+
+## Contact
+Winnie Madikizella 
+Data & Business Intelligence Specialist
+LinkedIn: https://www.linkedin.com/in/winnie-madikizella-data/ 
