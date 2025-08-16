@@ -96,3 +96,8 @@ Winnie Madikizella – Data & Business Intelligence Specialist
 LinkedIn: https://www.linkedin.com/in/winnie-madikizella-data/
 
 Passionate about transforming complex data into actionable insights through automation and visualization.
+
+## Certificate
+I have completed the Analyst Builder Python Programming for Beginners
+
+[Download Analyst Builder Certificate](certificates/Analyst_Builder_Certificate.pdf)
