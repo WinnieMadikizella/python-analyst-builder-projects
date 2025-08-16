@@ -101,3 +101,4 @@ Passionate about transforming complex data into actionable insights through auto
 I have completed the Analyst Builder Python Programming for Beginners
 
 [Download Analyst Builder Certificate](certificates/Analyst_Builder_Certificate.pdf)
+
